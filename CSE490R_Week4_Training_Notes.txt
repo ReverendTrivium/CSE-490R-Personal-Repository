@@ -1,0 +1,25 @@
+•	An SRS document answers the question “What is the product?”
+•	It does not answer how the product is design, or where or anything specific.
+•	An SRS outlines the basic architectural elements, scenarios, customer needs, and user roles. 
+•	It is formatted in the specific way of A set of requirements for each, using minimum <subject> shall <capability> format.
+•	Specify what test methods will be used to verify each requirement. (Demo, Code Inspection, 
+•	Product Development includes the summary or product tasking, your accountability of completed hours, your performance (velocity/hours), your challenges, your future plans goals and tasking.
+•	Lastly Product Development requires rating how you worked as a team, and who, those on your team, helped the most.
+•	This is a group project and is not something you can do by yourself. 
+•	An SRS leads into writing Sprint Stories.
+•	In test driven developed, need to write the tests before we start coding.
+•	The difference between Requirements and Stories is that Requirements are things that once are built don’t tend to change much while Stories are things that need to be constantly updated.
+•	Epic Stories are a grouping of stories that implement a feature.
+•	Most systems will have Front-End, Back-End, and Database Epic Stories.
+•	Epic Stories can also be defined by features such as a User Login feature.
+•	The methodology usually changes a bit on a typical project.
+•	Put all code changes into the Product Library. (Usually a GitHub or Code Repository)
+•	Store all Software Artifacts inside some sort of Program Library.
+•	Any finished code is sent for a Code Review.
+•	Repository Should have an Action Items Database, a Problem Report Database, a Database where we keep information about what we are changing, and a database where we keep track of what the code is doing. 
+•	Once everything has been tested and passed multiple reviews and look overs and has passed every unit test, it will be delivered.
+•	Each baseline in a repository has different integration branches.
+•	Depending on how large a project/file is, you need additional layers for each team.
+•	Create a branch for the particular version of the layer.
+•	Each developer will take a branch off the version of the repository.
+•	If you have multiple teams working on multiple things, you’re going to want to layer those branches as deep as your organization is so you don’t clobber each other and so you have some sort of control.

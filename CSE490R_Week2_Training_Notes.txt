@@ -1,0 +1,19 @@
+•	Purpose of the Project is to help overworked UL Panel Technicians.
+•	A prototype of the Project was created last semester. This Project aims to turn that prototype into a Real Website that the UL Panel Technicians can use. (http://ulpanelapp.com)
+•	Add more pieces to the UL Panel, like a Board Game with Rules. (Circuit Breakers, Variable Frequency Drives, Fuses, Motors, Voltage, Phase, Temperature, Transformer, Main Disconnect, Service Size (How Much energy this Panel needs to function/How much power it requires).
+•	Add information on the Backend of the circuit breaker. (The Voltage, how many Phases (i.e., Three Phase), done in a way that ensures the Interface stays uncluttered.
+•	Add Panel Layout with the spacing between components on the Panel.
+•	The Two Electrical Engineers at IBEX will go through the UL 508A document, tell the team what pages and sections are relevant to the Project, and explain them. 
+•	The Project Goal is to be a Web App that allows UL Panel Technicians to run it on a Phone, Desktop, or PC with a Responsive Layout.
+•	The Backend of the Web App is on a server run by InMotion hosting using PHP.
+•	One of the Project Goals is to set up a Database for the Project to use.
+•	Aim to use MySQL for the Database of the Web App.
+•	Two Teams will be working on the Project simultaneously, with Goals and Tasks divided between the two teams.
+•	Automatic - Scripts to Design Panels, PHP forms -> graph 
+•	We need to work with the other team to split up some of these features, so we have a common interface to integrate both teams' work into the Project, so there are no integration issues.
+•	The More Information Main Goal is the abstract information (i.e., It's like the difference between saying laptop and meaning an Apple MacBook Pro or a Chromebook).
+•	The User Accounts Main Goal and Suggest Part Numbers from the database will need the backend database to function.
+•	The Backend will be the PHP Scripts behind the User Interface.
+•	Have two or more teams (Frontend and Backend teams).
+•	We will have one Project Manager and potentially multiple team leaders, depending on the number of teams we have.
+•	Our point of contact with the Customer will be the Project Manager, so any questions we have for the Customer will go through our Project Manager/ Project Lead. The Team Members will communicate with their Team leads, who will then Communicate with the Project Manager, so we have one communication chain.
