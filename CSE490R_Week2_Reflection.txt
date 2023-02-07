@@ -1,0 +1,40 @@
+What? (Return and Report)
+1.	What did you do to prepare for class this week?
+To Prepare for class this week, I spent time reviewing my previous work in coding in languages such as MySQL, Java, C++, PHP, JavaScript, HTML, and CSS to ensure I am as fresh as I can be for the Project in the course. The Project we are working on for the customer since we are working on version 2 of the Web Panel App for Electrical Panels that follow the UL Specification 508A. Refreshing myself on these languages was helpful as these languages are what the Web Panel App has been built on so far, so I needed to refresh my understanding of these coding languages for the Project. (C5)
+2.	What did you learn from this week’s activities?
+What I learned from this week's activities was a better understanding of how to create a better-looking Resume for job searching, along with taking some of what I liked best from other's Resumes to add to my own. (C5)
+3.	What did you learn from the customer?
+I learned from the customer the purpose of the Web Panel App, how it is being created to help overworked UL Shop Technicians, what features we are expected to finish for the Project, and any stretch goals. I also learned that there would be another team working on the Project that would complete other parts separately from us. Because of this, we will need to work with the other team to ensure that each team's designs and features can easily integrate into the final Project without any integration issues. (C5)
+4.	What did you learn from the customer’s domain knowledge?
+Some things I learned from the customer's domain knowledge was a better understanding of the purpose of the Project and what some of the Project's primary goals meant. For example, the More Information Main Goal is the abstract information (i.e., It's like the difference between saying laptop and meaning an Apple MacBook Pro or a Chromebook). (C5)
+5.	What synergic activities did you participate with the customer?
+Some synergic activities I participated in with the customer were communication on Microsoft Teams, watching the recording of the zoom meeting with the customer as I could not join at the time due to work constraints, and communication on MS teams with the customer by asking questions on the Project. I also volunteered to be a team lead for the backend team of the Project while also creating my elevator pitch for what I bring to the table. (C5)
+6.	On a scale of 1-Zoned out, 2-Attentive, 3-Thinking, 4-Activity Participated, 5- Dominated the activities, how did you participate in class?
+On a scale of 1 to 5 on how I participated in class, I was a 5 (Dominated the activities) as I was the first person to join the discussion board Career prep. In addition, I have been the only one to finish writing my reply posts up to step 4, and the only reason I cannot finish reply post 5 is that I need at least two others to make their fourth replies before I can finish my fifth reply post. I have also been active on the Microsoft teams’ channel and involved in many discussions. (C5)
+7.	On a scale of 1-Waste of my time, 2-Re-enforced my learning, 3-Learn something new, 4-New content that connected to previous learning, 5-Mind Blowing/Paradigm shift, what did you learn?
+On a scale of 1-5, I was a 4 (New Content that connected to previous learning) on what I learned. I learned more about electrical panels, what components make them work, and that spacing is required for each component that can range depending on the factors of the making of the panel. These factors include the voltage and horsepower of the motors they will be running or the number of wires in the electrical panel. (C5)
+So What? (Reflect and Regroup)
+1.	How did you affect the project?
+I affected the Project by being active in the MS Teams channels, asking questions about the Project, and ensuring I responded quickly to any posts the customer made on Teams. I also volunteered for any portions of the Project to which I could best contribute. (C5)
+2.	How did you include the customer?
+I included the customer by rewatching the zoom meeting recording with the customer to see what exactly he was expecting from the Project. Along with any insights he could contribute about what was needed and see what questions were already asked by the team to ensure I had no further questions to ask. (C5)
+3.	What is the status of your goals from previous reflections?
+As this is the first Reflection of the semester, the only goals I have so far are the ones I am creating in the Reflection, so there has not been any progress on any previous goals. (C5)
+4.	What value did you provide to the program/team?
+The value I provided the program/team was being an active member of the MS Teams channel, asking questions, and communicating with the instructor and the customer. I also read over all the documentation the customer provided and watched the zoom meeting recording to ensure I was as up-to-speed on the Project as possible. It will also ensure I will be as helpful as possible with the Project's future completion. (C5)
+5.	What value did you provide to the product/customer?
+The value I provided the product/customer was an active member of MS Teams, communicating with him and watching over the zoom recording where we met the customer to ensure I knew what was expected of the team. I also made sure to read over all the documentation provided by the customer on the Project, along with reading all his posts and giving him everything he required. (C5)
+•	10 pts each: Behavior: (What now? ...my ideas are starting to emerge!)
+1.	What value or innovation do you plan on providing the customer, project, or program?
+The value I plan on providing the Project is through my knowledge of PHP, jQuery, and XAMPP. In addition, I will ensure the code functions smoothly and is optimized as best as possible and ensure that there are no bugs or coding mistakes in the code. (C5)
+2.	How do plan on contributing to the team, besides completing your tasks?
+Besides completing my tasks, I plan on contributing to the team by helping others with any issues or problems they may be having with their assigned responsibilities. I will also watch many YouTube videos and tutorials on the Languages and other aspects we are to use in this Project to ensure I can help the rest of the team with any issues or problems they may have during the Project. (C5)
+3.	What would you do differently next week?
+Something I would do differently from this week to next week is to ensure I am more prepared for the coding and design of the Project, as I need to familiarize myself with many aspects of the Project we're doing. Also, I need to ensure I will not be a detriment to the rest of the team. (C5)
+4.	Write a SMART goal for next week?
+A SMART goal for next week is to ensure that I have studied and watched tutorial videos on YouTube and other places on the languages and aspects we will be using in the Project to ensure I will benefit the team throughout the Project. (C5)
+•	S: I will study and watch YouTube tutorials and other tutorials on the coding languages and tools used in the Project to ensure I am knowledgeable on these necessary details.
+•	M: I will finish watching these videos and raising my understanding of the tools and languages used in the Project by the end of week 3 in the semester. 
+•	A: Seeing as I will be watching YouTube tutorials on PHP, jQuery, JavaScript, HTML, MongoDB, CSS, and SVG, finishing these tutorials in 7 days is an achievable goal.
+•	R: This will be a realistic goal as everything in the SMART goal is possible to achieve in a week and could quickly be done in a smaller time frame. 
+•	T: This goal is Time-bound as I need to finish this Smart goal by the end of week three in the semester or by January 21st.
