@@ -1,0 +1,53 @@
+	The Design Document provides the “How” the product will implemented.
+	The Design Document breaks down the requirements into workable units.
+	The Requirements Document is the “What” of the product.
+	The Design Document has different design levels.
+	Drop level from Platform/Framework/Architecture to System, then Tiers, then Sub-System, then multi-Entity, then Entity, the Sub-component, followed by Interface, Library, Class and finally into a function.
+	The entity level is where integration happens
+	Sub-systems to N-tiers is where interfaces are set.
+	Similar to buying a car, you want a test drive before you buy it.
+	A good design outlines the following:
+	Objects that are used by the system.
+	How those objects are used by stakeholders (user types).
+	The scope of objects.
+	When and where those objects are viewed.
+	Think of a movie, game, or story, not all characters are the same.
+	Captures workflows and sequences.
+	Captures logging, installation, and delivery.
+	Captures quality attributes and model.
+	Used both top-down and bottom-up techniques. 
+	The most popular design technique and tool is UML.
+	Class Diagram
+	Sequence Diagrams
+	Component Diagrams
+	Entity Relations
+	The next popular one is Design Patterns.
+	Behavior
+	Structural
+	Creation
+	Other tools and Techniques include:
+	Process flow
+	CRC
+	Layering
+	Data Structures
+	Pseudocode
+	Database Definition
+	Workflows
+	Petri Charts
+	Formal Language
+	Viewpoints
+	WBS (Work Breakdown Structure) is a decomposition or a top-down of the project.
+	The second expert judgement tool is the elicitation of requirements.
+	A systematic way of going through and working with the customer and stakeholders and find out what the system is supposed to do. 
+	The third expert judgement tool is System Engineering Views.
+	These views include:
+	Service View
+	System View
+	System Engineer View
+	Operational View
+	Capability View
+	Standards View
+	Data and Information View
+	Project View
+	Fourth expert judgment tool is Design techniques.
+	The fifth method is Quality Models.
