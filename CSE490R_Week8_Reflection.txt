@@ -1,0 +1,40 @@
+What? (Return and Report)
+1.	What did you do to prepare for class this week?
+To Prepare for class this week, I watched a few more YouTube tutorials on coding in JavaScript. I did this as my assigned duty for this Semester's Project has changed from converting the old PHP code of the circuit breaker component into JavaScript into writing a whole new Circuit Breaker component in JavaScript following the rules of Object-Oriented Programming. I have had no coding recently in JavaScript, and I needed a refresher to confidently translate the legacy PHP code into JavaScript. (C5)
+2.	What did you learn from this week’s activities?
+What I learned from this week's activities was a better understanding of Software Design Documentation, the purpose of a Software Development Folder, and Risk Statements and their purposes. (C5)
+3.	What did you learn from the customer?
+I did not personally talk to or communicate with the customer this week. The Team's Project Manager, Anthon, had a meeting with the customer on Wednesday, February 22nd, about the Project and its status. Anthon gave us the summary of that meeting and its subject afterward. (C5)
+4.	What did you learn from the customer’s domain knowledge?
+Some things I learned from the customer's domain knowledge was a better understanding of the purpose of the Project as well as how the Requirements for each Project's Primary goals were to be completed and the technical details of the components of an Electrical Panel. (C5)
+5.	What synergic activities did you participate with the customer?
+Some synergic activities I participated in with the customer were communication on Microsoft Teams, re-watching the recording of the zoom meeting while looking over the provided 90-page presentation to better understand the changed scope of the Project from the first Microsoft Team’s call. I also became the Team Lead for Team two and started delegating the tasks my team was assigned and providing timelines for when things needed completion along with the time length of each Agile Sprint for our team. (C5)
+6.	On a scale of 1-Zoned out, 2-Attentive, 3-Thinking, 4-Activity Participated, 5- Dominated the activities, how did you participate in class?
+On a scale of 1 to 5 on how I participated in class, I was a 5 (Dominated the activities) as I was the first person to join the discussion board, Understanding the playing field. In addition, I have been the only one to post on the discussion board currently and have finished both required posts on the discussion board. I have also been active on the Microsoft Teams channel and involved in many discussions. (C5)
+7.	On a scale of 1-Waste of my time, 2-Re-enforced my learning, 3-Learn something new, 4-New content that connected to previous learning, 5-Mind Blowing/Paradigm shift, what did you learn?
+On a scale of 1-5, I was a 2 (Re-enforced my learned) on what I learned. I already took a class that had a software development folder, so this week's subject did little more than reinforce things I learned in previous semesters. (C5)
+So What? (Reflect and Regroup)
+1.	How did you affect the project?
+I affected the Project by being active in the MS Teams channels, asking questions about the Project, and ensuring I responded quickly to any posts the customer made on Teams. I also communicated and coordinated with my Team to ensure I used everyone's skillset to assign them tasks they were best suited to complete, we also had a meeting on the software delivery plan and the software test plan and discussed whether this was an individual submission for the portions you are coding or a class submission submitted by the Project manager. We eventually decided it was a individual submission as it does not say anywhere in the assignment that the PM is supposed to submit it. (C5)
+2.	How did you include the customer?
+I included the customer by continuing to use the 90-page presentation the customer provided in completing my assigned task of translating the PHP Circuit Breaker component into JavaScript to ensure that I followed the 508A UL specifications that the presentation provides for every component. (C5)
+3.	What is the status of your goals from previous reflections?
+The status of the SMART goal from my previous reflection is that I have accomplished it. I have watched three tutorial videos on translating PHP code into JavaScript to ensure I am prepared to accomplish my assigned task for this Project. (C5)
+4.	What value did you provide to the program/team?
+The value I provided the program/team was being an active member of the MS Teams channel, asking questions, and communicating with my Team to coordinate tasks better, as well as using the benefit of the Project Manager also being in my Team to my advantage. I also read over all the new documentation the customer provided to ensure I was as up-to-speed on the Project's new scope. It will also ensure I will be as helpful as possible with the Project's future completion. (C5)
+5.	What value did you provide to the product/customer?
+The value I provided the product/customer was an active member of MS Teams, communicating with him through the Project Manager to ensure I understood the Project's revised scope and what was expected for my Team to accomplish from the new scope. I also made sure to read over all the documentation provided by the customer on the Project, along with reading all his posts and giving him everything he required. (C5)
+•	10 pts each: Behavior: (What now? ...my ideas are starting to emerge!)
+1.	What value or innovation do you plan on providing the customer, project, or program?
+The value I plan on providing to the Project is through my knowledge of PHP, GitHub, and XAMPP. As we are using GitHub for the repository of the Project, my experience and knowledge in using GitHub will come in handy for the Team. (C5)
+2.	How do plan on contributing to the team, besides completing your tasks?
+Besides completing my tasks, I plan on contributing to my Team by helping others with any issues or problems they may have with the responsibilities I assign them. I will also watch many YouTube videos on coding in JavaScript, as that is what the majority of my Team's tasks are for the Project. Having a better understanding of that task will help immensely. (C5)
+3.	What would you do differently next week?
+Something I would do differently from this week to next week is to ensure I am more prepared in understanding the requirements for the circuit breakers and in coding in JavaScript, which I have never done before. I am still unfamiliar with it, and knowing how to code in JavaScript will help me in my future career as it is a major coding language. It is what the rest of my Team and I will be doing for the Project this semester. I also need to familiarize myself with the other aspects of the Project, such as a better understanding of the 508A UL Specifications. (C5)
+4.	Write a SMART goal for next week?
+A SMART goal for next week is to ensure that I have studied and watched another three tutorial videos on YouTube for coding in JavaScript and read over the 90-page pdf documentation on the sections relating to Circuit Breakers so I can understand the rules for circuit breakers. (C5)
+•	S: I will study and watch YouTube tutorials and other tutorials on coding in JavaScript and look over the documentation relating to the rules of circuit breakers to ensure I am knowledgeable about the tasks I am responsible for completing.
+•	M: I will finish watching these videos and raising my understanding of the rules of circuit breakers by the end of week 9 of the semester.
+•	A: Seeing as I will be watching YouTube tutorials on coding in JavaScript as well as reading the rules of circuit breakers from the provided documentation, finishing these tutorials in 7 days is an achievable goal.
+•	R: This will be a realistic goal as everything in the SMART goal is possible to achieve in a week and could quickly be done in a smaller time frame.
+•	T: This goal is Time-bound as I need to finish this Smart goal by the end of week seven of the semester or by March 3rd.

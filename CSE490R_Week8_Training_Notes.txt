@@ -1,0 +1,113 @@
+	The Design Document provides the “How” the product will be implemented.
+	The Design Document breaks down the requirements into workable units.
+	The Requirements Document is the “What” of the product.
+	The Design Document has different design levels.
+	Drop level from Platform/Framework/Architecture to System, then Tiers, then Sub-System, then multi-Entity, then Entity, the Sub-component, followed by Interface, Library, Class and finally into a function.
+	The entity level is where integration happens.
+	Sub-systems to N-tiers are where interfaces are set.
+	Similar to buying a car, you want a test drive before you buy it.
+	A good design outlines the following:
+	Objects that are used by the system.
+	How those objects are used by stakeholders (user types).
+	The scope of objects.
+	When and where those objects are viewed.
+	Think of a movie, game, or story, not all characters are the same.
+	Captures workflows and sequences.
+	Captures logging, installation, and delivery.
+	Captures quality attributes and model.
+	Used both top-down and bottom-up techniques. 
+	The most popular design technique and tool is UML.
+	Class Diagram
+	Sequence Diagrams
+	Component Diagrams
+	Entity Relations
+	The next popular one is Design Patterns.
+	Behavior
+	Structural
+	Creation
+	Other tools and Techniques include:
+	Process flow
+	CRC
+	Layering
+	Data Structures
+	Pseudocode
+	Database Definition
+	Workflows
+	Petri Charts
+	Formal Language
+	Viewpoints
+	WBS (Work Breakdown Structure) is a decomposition or a top-down of the project.
+	The second expert judgement tool is the elicitation of requirements.
+	A systematic way of going through and working with the customer and stakeholders and find out what the system is supposed to do. 
+	The third expert judgement tool is System Engineering Views.
+	These views include:
+	Service View
+	System View
+	System Engineer View
+	Operational View
+	Capability View
+	Standards View
+	Data and Information View
+	Project View
+	The fourth expert judgment tool is Design techniques.
+	The fifth method is Quality Models.
+•	Software Documentation is keeping track of your previous work so you know what you were thinking at the time and so you can pick back up quickly.
+•	Purpose of programming is to deliver a working quality product.
+•	The product can be software (web site, app, program, etc), user support (user manual, installation instruction/wizard, VDD), customer/stakeholder documents (Req, Design, audits, test results), or maintenance instructions (log files, unfinished tasking).
+•	The delivery is more than just the coded executables.
+•	The product is the process, concept, requirements, design, code, decisions, testing, delivery, and the maintenance.
+•	What solves the customer’s problem.
+•	Waterfall deliverables: Documentation, and Product/Program.
+•	Different phases of a development process for building software.
+•	Projects were failing in the past due to not keeping track of development.
+•	Spiral deliverables: Objectives, Risks, Program/Product, Planning.
+•	Agile Deliverables, Objective Planning, Create Prototypes, Work on next iteration of prototype. Review what we can do to simplify things.
+•	The definition of done is that requirements and design is implemented.
+o	The implementation is tested at the unit, regression, and system levels
+o	Code is checked into the baseline.
+o	Documentation is updated for any changes.
+o	Peer Reviews are complete.
+o	CM, QA, Testing, PM.
+•	Writing code is about 30-40% of your total work that you do, the rest is ensuring that you deliver that code or product.
+•	Document the requirements for the methodologies In the Software Development Folder.
+•	The Software Development Folder contains:
+o	The Task Description Document
+	This contains the story.
+	What requirements the story satisfies
+	What design elements are related.
+	Why you changed/added to the code base.
+o	Difference Listing
+o	Unit Test Cases
+o	Review Report
+	Documents are updated.
+	Code is checked in.
+	Unit Tests are run.
+o	SDFs are usually also stored in the Code repository library.
+•	Software Developed Folder is part of the Project Documents.
+•	These Projects documents should not get in the way of the development of code.
+•	Rick Deliverables
+•	Steps in a risk management plan are as follows:
+o	Plan Risk Management
+o	Identify Risks
+o	Analyze Risks
+o	Planning the Responses.
+o	Monitor and Control the Risks.
+•	If the opposite of Risks is Opportunities, what are the opposite of risk mitigations.
+•	How do we work with Risks?
+o	Just like requirements there are certain phrases we can use that work very well.
+o	There are specific formats that work very well.
+o	One of the best formats is a Grid – likely vs severity.
+•	Testing is a Risk Mitigation methodology.
+•	Two different forms of testing are static and dynamic.
+•	How do you know if you are effectively doing you job?
+•	We document what we are doing, what we have done, and that helps show how effectively we are doing our job.
+•	Plan help focus us on what is needed.
+•	Two Plans
+o	Software Delivery Plan
+	1-3 pages on how to check in list.
+o	Test Plan
+	3-6 pages on what and how these features will be tested.
+•	Deliverables:
+o	Risk Analysis
+o	VDD – Version Description Document
+•	VDD gives a brief quick look at what is needed.
